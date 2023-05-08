@@ -1,0 +1,2 @@
+class CharterSchool < ApplicationRecord
+end
